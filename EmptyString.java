@@ -12,3 +12,10 @@ public class EmptyString {
         }
     }
 }
+
+// Output
+abc
+bc
+efg
+abcd
+jkl
