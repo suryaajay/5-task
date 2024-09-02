@@ -12,3 +12,6 @@ public class Gift {
         System.out.println("Students whose names start with 'A': " + studentsWithA);
     }
 }
+
+// Output
+Students whose names start with 'A': [Arya, Ajith, Akash, Anushiya]
