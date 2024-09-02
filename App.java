@@ -16,3 +16,7 @@ public class App {
                 age.getDays() + " days.");
     }
 }
+
+// Output
+Enter your birthdate (yyyy-mm-dd): 2000-04-06
+Your age is: 24 years, 4 months, and 27 days.
