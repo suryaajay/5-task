@@ -7,3 +7,8 @@ public class UpperCase {
                 .forEach(System.out::println);
     }
 }
+
+// Output
+ABC
+D
+EF
